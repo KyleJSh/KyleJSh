@@ -29,6 +29,6 @@ GIMP
 
 ### Connect With Me:
 
-YouTube.com/c/kylesherrington <br />
-LinkedIN.com/in/kylesherrington<br />
+Youtube.com/c/kylesherrington <br />
+Linkedin.com/in/kylesherrington<br />
 Instagram.com/kyle_sherrington<br />
