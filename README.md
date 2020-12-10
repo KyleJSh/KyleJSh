@@ -7,20 +7,20 @@
 - 🎬 Worked on 100+ film sets with celebrities!
 - 👀 Follower of Bitcoin/Crypto since 2010
 - 🌱 Learning about Front End Dev everyday
-- 👨‍💻 Excited to see what 2021 brings!
+- 👨‍💻 Excited to see what 2021 brings!!
 
 <br />
 
 ### Languages, Tools, and Platforms
 
-HTML5
-CSS3
-JavaScript
-Wordpress/Wix/SquareSpace
-Stack Overflow
-VS Code
-iTerm2
-Figma
+HTML5<br />
+CSS3<br />
+JavaScript<br />
+Wordpress/Wix/SquareSpace<br />
+Stack Overflow<br />
+VS Code<br />
+iTerm2<br />
+Figma<br />
 GIMP
 
 
