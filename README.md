@@ -2,7 +2,7 @@
 
 ## Musician, Crypto Enthusiast, Film Industry Admin (manage 300+ actors)
 - 🇨🇦 Live in Vancouver Canada
-- 🎸 Guitarist of over 20 years
+- 🎸 Professional Guitarist of over 20 years
 - 🛳 Traveled to 50+ countries playing in orchestras and bands
 - 🎬 Worked on 100 film sets with celebrities!
 - 👀 Follower of Bitcoin/Crypto since 2010
@@ -29,6 +29,6 @@ GIMP
 
 ### Connect With Me:
 
-[youtube]: https://www.youtube.com/c/kylesherrington
-[linkedin]: https://www.linkedin.com/in/kylesherrington
-[instagram]: https://www.instagram.com/kyle_sherrington/
+YouTube.com/c/kylesherrington <br />
+LinkedIN.com/in/kylesherrington<br />
+Instagram.com/kyle_sherrington<br />
