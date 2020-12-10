@@ -2,9 +2,9 @@
 
 ## Musician, Crypto Enthusiast, Film Industry Admin (manage 300+ actors)
 - 🇨🇦 Live in Vancouver Canada
-- 🎸 Guitarist of 20+ years
+- 🎸 Guitarist of over 20 years
 - 🛳 Traveled to 50+ countries playing in orchestras and bands
-- 🎬 Worked on 100+ film sets with celebrities!
+- 🎬 Worked on 100 film sets with celebrities!
 - 👀 Follower of Bitcoin/Crypto since 2010
 - 🌱 Learning about Front End Dev everyday
 - 👨‍💻 Excited to see what 2021 brings!!
