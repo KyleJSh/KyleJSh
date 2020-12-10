@@ -1,9 +1,10 @@
 ### Hi! I'm Kyle.
 
-## Musician, Crypto Enthusiast, Film Industry Admin (manage 300+ actors)
+## Musician, Junior Front End Dev, Crypto Enthusiast
 - 🇨🇦 Live in Vancouver Canada
 - 🎸 Professional Guitarist of over 20 years
 - 🛳 Traveled to 50+ countries playing in orchestras and bands
+- 😎 Film Industry Admin, Manage 300+ Actors
 - 🎬 Worked on 100 film sets with celebrities!
 - 👀 Follower of Bitcoin/Crypto since 2010
 - 🌱 Learning about Front End Dev everyday
