@@ -30,6 +30,6 @@ GIMP
 
 ### Connect With Me:
 
-Youtube.com/c/kylesherrington <br />
-Linkedin.com/in/kylesherrington<br />
-Instagram.com/kyle_sherrington<br />
+[YouTube](http://www.youtube.com/c/kylesherrington "Kyle's YouTube") <br />
+[LinkedIN](https://www.linkedin.com/in/kylesherrington "Kyle's LinkedIN")<br />
+[Instagram](https://www.instagram.com/kyle_sherrington "Kyle's Instagram")
