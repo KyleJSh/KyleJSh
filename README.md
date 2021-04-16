@@ -14,15 +14,23 @@
 
 ### Languages, Tools, and Platforms
 
+Swift<br />
+UIKit<br />
+SwiftUI<br />
+
 HTML5<br />
 CSS3<br />
 JavaScript<br />
+
+GitHub<br />
+Bitrise<br />
+Figma<br />
+VS Code<br />
+
 Wordpress/Wix/SquareSpace<br />
 Stack Overflow<br />
-VS Code<br />
-iTerm2<br />
-Figma<br />
-GIMP
+Terminal<br />
+Proxyman<br />
 
 
 <br />
