@@ -17,6 +17,9 @@
 Swift<br />
 UIKit<br />
 SwiftUI<br />
+CoreData<br />
+iOS Animations<br />
+
 
 HTML5<br />
 CSS3<br />
