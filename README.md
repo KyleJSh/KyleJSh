@@ -27,6 +27,9 @@ Bitrise<br />
 Figma<br />
 VS Code<br />
 
+Google Cloud Platform (APIs)<br />
+Google Firebase<br />
+
 Wordpress/Wix/SquareSpace<br />
 Stack Overflow<br />
 Terminal<br />
