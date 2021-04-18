@@ -30,7 +30,7 @@
 <img align="left" alt="JSON" width="50px"  src="https://img.icons8.com/nolan/64/json.png"/>
 <img align="left" alt="Figma" width="50px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="WordPress" width="50px" src="https://img.icons8.com/doodle/48/000000/wordpress--v1.png"/>
+<img align="left" alt="WordPress" width="50px" src="https://img.icons8.com/dusk/64/000000/wordpress.png"/>
 <img align="left" alt="Wix" width="50px" src="https://img.icons8.com/windows/96/000000/wix.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
