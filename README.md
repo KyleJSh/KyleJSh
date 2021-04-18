@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-kylejsherrington@gmail.com
+[Email][email]
 
 [YouTube][youtube]
 
@@ -45,3 +45,4 @@ kylejsherrington@gmail.com
 [twitter]: https://www.twitter.com/kylesherrington
 [instagram]: https://www.instagram.com/kyle_sherrington
 [linkedin]: https://www.linkedin.com/in/kylesherrington
+[email]: kylejsherrington@gmail.com
