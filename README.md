@@ -21,7 +21,7 @@ kylejsherrington@gmail.com
 
 [LinkedIn][linkedin]
 
-### Languages and Tools:
+### Languages, Platforms, and Tools:
 
 <img align="left" alt="Xcode" width="45px" src="https://img.icons8.com/nolan/64/xcode.png"/>
 <img align="left" alt="Swift" width="45px" src="https://img.icons8.com/plasticine/100/000000/swift--v2.png"/>
@@ -30,6 +30,8 @@ kylejsherrington@gmail.com
 <img align="left" alt="JSON" width="45px"  src="https://img.icons8.com/nolan/64/json.png"/>
 <img align="left" alt="Figma" width="45px" src="https://img.icons8.com/windows/32/000000/figma.png"/>
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="WordPress" width="45px" src="https://img.icons8.com/doodle/48/000000/wordpress--v1.png"/>
+<img align="left" alt="Wix" width="45px" src="https://img.icons8.com/windows/96/000000/wix.png"/>
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
