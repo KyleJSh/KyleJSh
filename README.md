@@ -1,6 +1,6 @@
 ### Hi! I'm Kyle
 
-## Musician, Crypto Lover, Developer
+## Musician, Crypto Lover, iOS Developer
 
 - 🇨🇦 Canadian living in Vancouver
 - 🎸 have played guitar for over 20 years
