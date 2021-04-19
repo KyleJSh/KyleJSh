@@ -37,7 +37,9 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px"  src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="GIMP" width="50" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
+<img align="left" alt="GIMP" width="50px" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
+<img align="left" alt="Filezilla" width="50px" src="https://img.icons8.com/color/48/000000/filezilla.png"/>
+<img align="left" alt="Brave Browser" width="50px" src="https://img.icons8.com/color/96/000000/brave-web-browser.png"/>
 
 <br />
 <br />
