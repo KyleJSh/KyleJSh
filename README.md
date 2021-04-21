@@ -5,7 +5,7 @@
 - 🇨🇦 Canadian living in Vancouver
 - 🎸 have played guitar for over 20 years
 - 🦍 interested in Bitcoin since the beginning
-- 👨‍💻 currently learning about software engineering
+- 💻 learning all things software engineering
 - 🏝 traveled to over 50 countries
 - 📕 2021 goals: learn to code!
 
