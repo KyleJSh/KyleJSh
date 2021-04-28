@@ -37,10 +37,10 @@
 <img align="left" alt="Git" width="50px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px"  title="GitHub" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
 <img align="left" alt="Terminal" width="50px" title="Terminal-iTerm2" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+<img align="left" alt="Figma" width="50px" title="Postman" src="https://img.icons8.com/wired/64/000000/postman-api.png"/>
 <img align="left" alt="GIMP" width="50px" title="GIMP" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
 <img align="left" alt="Filezilla" width="50px" title="Filezilla" src="https://img.icons8.com/color/48/000000/filezilla.png"/>
 <img align="left" alt="Brave Browser" width="50px" title="Brave Browser" src="https://img.icons8.com/color/96/000000/brave-web-browser.png"/>
-<img align="left" alt="Figma" width="50px" title="Postman" src="https://img.icons8.com/wired/64/000000/postman-api.png"/>
 
 <br />
 <br />
