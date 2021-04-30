@@ -40,7 +40,6 @@
 <img align="left" alt="Figma" width="50px" title="Postman" src="https://img.icons8.com/wired/64/000000/postman-api.png"/>
 <img align="left" alt="GIMP" width="50px" title="GIMP" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
 <img align="left" alt="Filezilla" width="50px" title="Filezilla" src="https://img.icons8.com/color/48/000000/filezilla.png"/>
-<img align="left" alt="Brave Browser" width="50px" title="Brave Browser" src="https://img.icons8.com/color/96/000000/brave-web-browser.png"/>
 
 <br />
 <br />
