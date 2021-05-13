@@ -7,7 +7,7 @@
 - 🦍 interested in Bitcoin since the beginning
 - 💻 learning all things software engineering
 - 🏝 traveled to over 50 countries
-- 📕 2021 goals: learn to code!
+- 📕 2021 goals: learn to code and focus on iOS
 
 ### Connect with me:
 
