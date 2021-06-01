@@ -3,7 +3,7 @@
 ## Musician, Crypto Lover, iOS Developer
 
 - 🇨🇦 Canadian living in Vancouver
-- 🎸 guitarist for over 20 years
+- 🎸 guitarist/musician for over 20 years
 - 🦍 interested in Bitcoin since 2 pizzas = 10k BTC
 - 💻 learning all things software engineering
 - 🏝 traveled to 50+ countries
