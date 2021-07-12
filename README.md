@@ -41,10 +41,3 @@
 <img align="left" alt="GIMP" width="50px" title="GIMP" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
 
 <br />
-<br />
-
-[youtube]: https://www.youtube.com/c/kylesherrington
-[twitter]: https://www.twitter.com/kylesherrington
-[instagram]: https://www.instagram.com/kyle_sherrington
-[linkedin]: https://www.linkedin.com/in/kylesherrington
-[email]: mailto:kylejsherrington@gmail.com
