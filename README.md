@@ -9,17 +9,8 @@
 - 🏝 traveled to 50+ countries
 - 📕 2021 goals: learn to code and focus on iOS
 
-### Connect with me:
+Email: jarethman@protonmail.com
 
-[Email][email]
-
-[YouTube][youtube]
-
-[Twitter][twitter]
-
-[Instagram][instagram]
-
-[LinkedIn][linkedin]
 
 ### Languages, Platforms, and Tools:
 
@@ -39,5 +30,3 @@
 <img align="left" alt="Terminal" width="50px" title="Terminal-iTerm2" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="Figma" width="50px" title="Postman" src="https://img.icons8.com/wired/64/000000/postman-api.png"/>
 <img align="left" alt="GIMP" width="50px" title="GIMP" src="https://img.icons8.com/fluent/96/000000/gimp.png"/>
-
-<br />
