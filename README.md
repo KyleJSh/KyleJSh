@@ -1,13 +1,11 @@
-### Hi! I'm Kyle
+### Hi!
 
-## Musician, Crypto Lover, Amateur Dev
+## Musician, Crypto Lover
 
-- 🇨🇦 Canadian living in Vancouver
+- 🇨🇦 Canadian
 - 🎸 guitarist/musician for over 20 years
 - 🦍 interested in Bitcoin since 2 pizzas = 10k BTC
-- 💻 learning all things software engineering
 - 🏝 traveled to 50+ countries
-- 📕 2021 goals: learn to code and focus on iOS
 
 Email: jarethman@protonmail.com
 
