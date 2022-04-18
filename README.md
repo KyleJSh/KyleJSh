@@ -7,7 +7,7 @@
 - 🦍 interested in Bitcoin since 2 pizzas = 10k BTC
 - 🏝 traveled to 50+ countries
 
-Email: jarethman@protonmail.com
+Email: kylejordan6500@gmail.com
 
 
 ### Languages, Platforms, and Tools:
